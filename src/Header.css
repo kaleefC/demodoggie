@@ -1,0 +1,143 @@
+#header{
+
+    background-color: midnightblue;
+    color:white;
+    position: fixed;
+    top:0%;
+    left:0%;
+    height:60px;
+    width:100%;
+    box-shadow: 5px 5px 7px darkblue;
+    float:right;
+
+}
+.B{
+
+    float:right;
+    padding: 12px;
+    position: relative;
+    top:10px;
+    background-color: cadetblue;
+
+}
+#Title{
+
+    float:left;
+    position:relative;
+    left:40px;
+
+}
+#Off{
+
+    position:relative;
+    right:50px;
+
+}
+#In{
+
+    position: relative;
+    right:30px;
+
+}
+#Post{
+
+    position: relative;
+    right:10px;
+
+}
+#Search{
+
+    position: absolute;
+    right:42%;
+    top:10%;
+
+}
+#Bar{
+
+    height:20px;
+    width:300px;
+
+}
+#gl{
+
+    position: relative;
+    right:10px;
+    width:20px;
+    height:20px;
+    bottom:5px;
+
+}
+#B{
+
+    position: relative;
+    top:10px;
+    width:30px;
+    height:30px;
+
+}
+#P{
+
+    background-color: #edf6ff;
+    box-shadow: 0px 2px 50px #ebf2fa;
+    border-radius: 1in;
+    border-style:solid;
+    border-color: black;
+
+}
+#mP{
+
+    background-color: #fff0f0;
+    box-shadow: 0px 0px 50px #faebeb;
+    border-radius: 1in;
+    border-style:solid;
+    border-color:black;
+
+}
+.mPb{
+
+    border-radius: 15px;
+    border-style: solid;
+    background-color: #ffe6e6;
+    
+}
+#DeleteBTN{
+
+    color:red;
+    border-color: red;
+    position: relative;
+    bottom:30px;
+    left:45px;
+
+}
+#EditBTN{
+
+    border-color: black;
+    color:black;
+    position: relative;
+    right:45px;
+    top:9px;
+}
+#pW{
+
+    position: relative;
+    right:20px;
+
+}
+#loginpasswd{
+
+    position: relative;
+    right:20px;
+
+}
+#uN{
+    
+    position: relative;
+    right:20px;
+
+}
+#user{
+    
+    position: relative;
+    right:20px;
+
+}

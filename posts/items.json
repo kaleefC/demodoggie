@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "userid": "63a27aae-a192-43be-abad-3fce5ba3dbe9",
+      "title": "New Listing",
+      "body": "Selling an old bike",
+      "seller": "Seller13",
+      "price": 10,
+      "location": "Hanover MD.",
+      "id": 1
+    },
+    {
+      "userid": "2a5a0081-c4ac-4446-8137-22d6c783b6f1",
+      "title": "Selling Systems",
+      "body": "Selling Nintendo Wii, and Wii U",
+      "seller": "Carter777",
+      "price": 300,
+      "location": "Salem, Cali.",
+      "id": 2
+    },
+    {
+      "userid": "2a5a0081-c4ac-4446-8137-22d6c783b6f1",
+      "seller": "Carter777",
+      "title": "Handhelds for sell",
+      "body": "Selling 2 Sony PSPs and Nintendo DS original",
+      "price": 100,
+      "location": "Maryland",
+      "id": 3
+    },
+    {
+      "userid": "63a27aae-a192-43be-abad-3fce5ba3dbe9",
+      "seller": "Seller13",
+      "title": "New listing",
+      "body": "Selling PS5 and XBOX Series X to pay rent.",
+      "price": 500,
+      "location": "Hanover, MD.",
+      "id": 6
+    },
+    {
+      "userid": "f8a698be-6ac9-4989-a741-0a249166aedd",
+      "seller": "Admin",
+      "title": "Selling spare chair",
+      "body": "It's my old chair, but I stand now.",
+      "price": 50,
+      "location": "Maryland",
+      "id": 8
+    },
+    {
+      "userid": "f8a698be-6ac9-4989-a741-0a249166aedd",
+      "seller": "Admin",
+      "title": "Selling old Laptop",
+      "body": "Old Chromebook",
+      "price": 200,
+      "location": "Maryland",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "userid": "63a27aae-a192-43be-abad-3fce5ba3dbe9",
+      "name": "seller13",
+      "passwd": "a0f3285b07c26c0dcd2191447f391170d06035e8d57e31a048ba87074f3a9a15",
+      "email": "Seller13@gmail.com",
+      "display": "Seller13",
+      "id": 1
+    },
+    {
+      "userid": "2a5a0081-c4ac-4446-8137-22d6c783b6f1",
+      "name": "carter777",
+      "passwd": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "email": "carter777@gmail.com",
+      "display": "Carter777",
+      "id": 2
+    },
+    {
+      "userid": "5c1fc4f9-2fd7-4b78-9536-546a8e46f2e9",
+      "name": "seller13",
+      "passwd": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "email": [],
+      "display": "Seller13",
+      "id": 3
+    },
+    {
+      "userid": "6c2c95b8-cba4-4647-b7a4-c09cc75f7d9b",
+      "name": "seller14",
+      "passwd": "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+      "email": "the@the",
+      "display": "seller14",
+      "id": 4
+    },
+    {
+      "userid": "db377ee0-8db8-43a0-9384-acfd7fe33bcc",
+      "name": "merchant",
+      "passwd": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "email": "admin@the",
+      "display": "Merchant",
+      "id": 5
+    },
+    {
+      "userid": "f8a698be-6ac9-4989-a741-0a249166aedd",
+      "name": "admin",
+      "passwd": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "email": "admin",
+      "display": "Admin",
+      "id": 6
+    }
+  ]
+}
